@@ -1,0 +1,78 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: blue;
+    background-color: gold;
+}
+
+p{
+    text-align: center;
+    color:blue;
+    /* background-color: gold; */
+}
+
+.mainlist {
+    text-align: center;
+}
+
+p.italic {
+    font-style:italic;
+}
+
+.commTable {
+    text-align: center;
+    background-color: silver;
+    border: 5px solid white;
+    margin-left: 100px;
+}
+
+body {
+    background-image: url("./images/bodyImage.png");
+    font-family: 'Courier New', Courier, monospace, 'Times New Roman', Times, serif;
+    font-size: 30px;
+    padding: 10px;
+}
+
+
+
+
+.colortextBlock {
+    background-color: silver;
+    align-content: center;
+    text-align: center;
+    margin: 0;
+    border: 5px solid white;
+    border-radius: 10px;
+    margin-top: 15px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.submit {
+    padding: 12px 45px;
+}
+
+.contactForm {
+    text-align: center;
+    padding-top:10px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:10px;
+}
+.contactFormat {
+    align-content: center;
+    text-align: center;
+    width: 250px;
+    padding-top:10px;
+    padding-right:10px;
+    padding-left:10px;
+    padding-bottom:10px;
+}
